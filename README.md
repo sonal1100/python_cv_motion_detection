@@ -50,3 +50,12 @@ Cell 3: Database functions
 Cell 4: Main motion detection loop
 Cell 5: Database verification (optional)
 The program prints motion events in the notebook and stores them in events.db.
+
+## Screenshots
+
+### Motion Detection Output
+Motion detected events("C:\Users\SONAL NIKAM\OneDrive\Desktop\md\motion_events.png")
+
+### Stored Events in Database
+Database events("C:\Users\SONAL NIKAM\OneDrive\Desktop\md\database_eventss.png")
+
